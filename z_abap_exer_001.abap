@@ -1,4 +1,4 @@
-*Declaração de um TYPE como um caractere com 10 posições
+*Declarando um TYPE como um caractere com 10 posições
 
 REPORT z_abap_exer_001.
 
