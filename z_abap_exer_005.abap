@@ -1,4 +1,4 @@
-*Declarando um tipo de hora
+*Declarando um TYPE de hora
 
 REPORT z_abap_exer_005.
 
