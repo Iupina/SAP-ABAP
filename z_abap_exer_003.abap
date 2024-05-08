@@ -1,4 +1,4 @@
-*Declarando um tipo como número com 7 posições
+*Declarando um TYPE como número com 7 posições
 
 REPORT z_abap_exer_003.
 
