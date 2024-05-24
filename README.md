@@ -64,7 +64,7 @@ Em resumo, o SAP ABAP é uma ferramenta poderosa para desenvolvimento e customiz
 | **LEAVE TO SCREEN** | Comando que direciona a ida de uma tela a outra |
 | **LINE-COUNT** | Números de linas por página |
 | **LINE-SIZE** | Número de colunas por página |
-| **LOOP AT ** | Ler o conteúdo de uma tabela |
+| **LOOP AT** | Ler o conteúdo de uma tabela |
 | **MESSAGE** | Usado para mostrar mensagens na tela |
 | **MESSAGE-ID** | Usado para definir uma classe de mensagens |
 | **MODIFY** | Modifica o conteúdo de uma tabela interna |
