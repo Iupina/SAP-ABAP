@@ -8,3 +8,8 @@ Com o SAP ABAP, os desenvolvedores podem criar e personalizar relatórios, formu
 Além disso, o SAP ABAP permite a integração de sistemas SAP com outros sistemas de software, bem como a manipulação de dados e processamento de transações dentro do ambiente SAP.
 
 Em resumo, o SAP ABAP é uma ferramenta poderosa para desenvolvimento e customização de soluções dentro do universo SAP, ajudando as empresas a otimizarem seus processos e a atenderem às suas necessidades específicas de negócios.
+
+| Quadrado 1 | Quadrado 2 |
+|------------|------------|
+| Conteúdo A | Conteúdo B |
+| Conteúdo C | Conteúdo D |
