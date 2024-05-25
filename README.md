@@ -36,7 +36,7 @@ Em resumo, o SAP ABAP é uma ferramenta poderosa para desenvolvimento e customiz
 | **CHECK** | Substitui o comando IF |
 | **CLEAR** | Limpar o conteúdo de uma variável |
 | **CLOSE DATASET** | Fecha um arquivo externo |
-| **CLOSE_FORM** | Função usada para fechar um formulário SAPSCRIT |
+| **CLOSE_FORM** | Função usada para fechar um formulário SAPSCRIPT |
 | **COLLECT** | Organiza a tabela com todas as descrições a esquerda totalizando os campos numéricos |
 | **COMMIT_WORK** | Efetiva as alterações no banco de dados |
 | **CONCATENATE** | Agrupa vários campos em um só |
@@ -73,9 +73,9 @@ Em resumo, o SAP ABAP é uma ferramenta poderosa para desenvolvimento e customiz
 | **MOVE-CORRESPONDING** | Move apenas os campos com o mesmo nome |
 | **NEW-PAGE** | Inícia nova página em um relatório |
 | **NO STANDARD PAGE HEADING** | Ignora o cabeçalho STD do SAP |
-| ** ** |  |
-| ** ** |  |
-| ** ** |  |
+| **OPEN_FORM** | Função para abrir um formulário SAPSCRIPT |
+| **OPEN DATASET** | Para abrir arquivo externo (somente para UNIX) |
+| **PARAMETERS** | Criar parâmetros de seleção |
 | ** ** |  |
 | ** ** |  |
 | ** ** |  |
