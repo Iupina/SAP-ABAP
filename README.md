@@ -90,7 +90,7 @@ Em resumo, o SAP ABAP é uma ferramenta poderosa para desenvolvimento e customiz
 
 
 ### Links Úteis
-- []()
-- []()
-- []()
+- [Blog sobre ABAP](https://www.abapzombie.com)
+- [Curso ABAP](https://www.youtube.com/playlist?list=PLnpMwD8LFgjh05i3HTz0OowSufokin24z)
+- [Comunidade SAP](https://community.sap.com)
 ---
