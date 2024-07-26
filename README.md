@@ -11,7 +11,7 @@ Em resumo, o SAP ABAP é uma ferramenta poderosa para desenvolvimento e customiz
 
 ## Comandos:
 
-| **Comandos** | **Descrição** |
+| **Comandos/Funções** | **Descrição** |
 |------------|------------|
 | **ADD** | Adiciona um valor a um outro campo númerico |
 | **APPEND** | Gravar em tabela interna |
@@ -76,18 +76,64 @@ Em resumo, o SAP ABAP é uma ferramenta poderosa para desenvolvimento e customiz
 | **OPEN_FORM** | Função para abrir um formulário SAPSCRIPT |
 | **OPEN DATASET** | Para abrir arquivo externo (somente para UNIX) |
 | **PARAMETERS** | Criar parâmetros de seleção |
-| ** ** |  |
-| ** ** |  |
-| ** ** |  |
-| ** ** |  |
-| ** ** |  |
-| ** ** |  |
-| ** ** |  |
-| ** ** |  |
-| ** ** |  |
-
-
-
+| **PERFORM** | Usado para chamar sub-rotinas |
+| **POPUP_TO_CONFIRM_WITH_MESSAGE** | Função para abrir uma janela de dialogo com opções de seleção |
+| **READ DATASET... INTO...** | Usado para ler e importar de um arquivo externo |
+| **READ TABLE ** | Ler uma tabela interna |
+| **READ_TEXT** | Função para ler texto de uma tabela |
+| **REFRESH** | Limpa todo o contéudo de uma tabela interna |
+| **REPLACE** | Replica um texto dentro de um outro texto |
+| **REPORT** | Inicio de relatório |
+| **RESERVE** | Reserva linhas para quebra de página |
+| **SAPGUI_PROGRESS_INDICATOR** | Função para indicar o progresso de uma tarefa |
+| **SEARCH** | Procura um texto dentro de outro texto |
+| **SELECT** | Usado para selecionar dados de uma tabela |
+| **SELECTION-OPTIONS** | Para colocar as opções de seleção |
+| **SELECTION-SCREEN** | Criar um BOX na janela |
+| **SET PF-STATUS** | Comando usado para criar botões |
+| **SET TITLEBAR** | Criar títulos em janelas |
+| **SET PARAMETERS** | Passa parâmetros para chamada de função |
+| **SKIP** | Pular uma linha |
+| **SLIP... AT.. INTO** | Comando usado para ler arquivo externmo e gravar na tabela |
+| **SORT** | Ordenar o conteúdo de uma tabela interna |
+| **STANDARD TOOLBAR** | Defina os valores padrões para os botôes do R/3 |
+| **START_FORM** | Função para inicializar um formulário SAPSCRIPT |
+| **START-OF-SELECTION** | Evento para marcar o início das seleções de dados |
+| **STRLEN** | Volta o tamanho de um texto |
+| **SUBCTRACT** | Subtrai um valor numérico de outro valor |
+| **SUM** | Totaliza um campo numérico |
+| **SXPG_CALL_SYSTEM** | Função que executa comandos externos no servidor |
+| **SY-BATCH** | Indica a execução em Background |
+| **SY-DATUM** | Volta a data do sistema |
+| **SY-LANGU** | Retorna a linguagem do logon |
+| **SY-LINNO** | Linha corrente de um relatório |
+| **SY-LISEL** | Linha escolhida em relatórios interativos |
+| **SY-MANDT** | Volta o valor do mandante |
+| **SY-PAGNO** | Faz a paginação automática (nr de páginas) |
+| **SY-SUBRC** | Volta o resultado de uma pesquisa (sucesso ou erro) |
+| **SY-TABIX** | Linha corrente de uma tabela interna |
+| **SY-TVAR0... SY-TVAR9** | Elementos de textos, para títulos de relatórios |
+| **SY-UCOMM** | Variável do sistema que retorna o noma de um botão ou evento |
+| **SY-UNAME** | Retorna o nome do usuário |
+| **SY-UZEIT** | Retorna hora do sistema |
+| **SY-VLINE** | Serve para fazer o fechamento de bordas de um relatório |
+| **SY-ULINE** | Imprime uma linha com n posições |
+| **SY-CPROG** | Nome do programa principal |
+| **SY-DBCNT** | Contador de interação |
+| **SY-TCODE** | Código da transação |
+| **TABLES** | Usado para abrir tabelas |
+| **TOP-OF-PAGE** | Marcar o início de um cabeçalho |
+| **TRANSFER... TO...** | Usado para ler e gravar em arquivo externo (UNIX) |
+| **TRASLATE** | Transforma texto minúsculo em maiúsculo |
+| **TYPES** | Define tipos e tabelas internas |
+| **ULINE** | Colaca uma linha continua na tela |
+| **UNPACK** | Coloca zeros a frente de um número |
+| **UPDATE** | Atualiza uma tabela transparente |
+| **VARYING** | Obtem os componentes de uma string de campo e sequencia |
+| **WHILE... ENDWHILE** | Cria laços de execução |
+| **WRITE** | Saída de relatório |
+| **WRITE_FORM** | Função para escrever no formulário SAPSCRIPT |
+| **WS_UPLOAD** | Função para fazer UPLOAD de arquivo externo |
 
 ### Links Úteis
 - [Blog sobre ABAP](https://www.abapzombie.com)
