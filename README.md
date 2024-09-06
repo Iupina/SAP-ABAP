@@ -79,7 +79,7 @@ Em resumo, o SAP ABAP é uma ferramenta poderosa para desenvolvimento e customiz
 | **PERFORM** | Usado para chamar sub-rotinas |
 | **POPUP_TO_CONFIRM_WITH_MESSAGE** | Função para abrir uma janela de dialogo com opções de seleção |
 | **READ DATASET... INTO...** | Usado para ler e importar de um arquivo externo |
-| **READ TABLE ** | Ler uma tabela interna |
+| **READ TABLE** | Ler uma tabela interna |
 | **READ_TEXT** | Função para ler texto de uma tabela |
 | **REFRESH** | Limpa todo o contéudo de uma tabela interna |
 | **REPLACE** | Replica um texto dentro de um outro texto |
